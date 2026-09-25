@@ -41,7 +41,7 @@ Ruby on Rails scheduling application developed by a four-person team, using an L
 **My contributions:** co-developed the AI agent backend, integrated LLM functionality, worked on prompts and tools for creating, updating, and deleting scheduled activities, and iteratively tested and refined agent behavior.
 
 **Tech:** Ruby on Rails · Ruby · LLMs · AI agents & tools · SQL
-[Live application] (https://bloomdory-15a9482e61c8.herokuapp.com/) · [Repository](https://github.com/menichettijillian/bloomdory)
+[Live application](https://bloomdory-15a9482e61c8.herokuapp.com/) · [Repository](https://github.com/menichettijillian/bloomdory)
 
 ## Currently Exploring
 
