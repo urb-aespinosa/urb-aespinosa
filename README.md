@@ -1,54 +1,38 @@
-# Hi, I'm Antonio 👋
+# Hi, I'm Antonio Espinosa
 
-I'm a software developer building applications with **Ruby on Rails and applied AI**.
+Software Developer focused on backend development and applied AI.
 
-I recently completed Le Wagon's 400-hour AI Software Development Bootcamp, where I built applications involving **LLM agents, APIs, AI-enabled workflows, and audio transcription**.
+I build Ruby on Rails applications involving LLM agents, APIs, relational databases, background jobs, and asynchronous workflows. I recently completed Le Wagon's 360-hour AI Software Development Bootcamp, where I developed and deployed software projects from problem definition through working MVPs.
 
-Before moving into software, I spent 10+ years working on complex urban development projects, coordinating multiple stakeholders, solving technical and operational problems, and turning ambiguous challenges into executable solutions.
-
-I'm now focused on growing as a developer, particularly in **backend development, applied AI, APIs, automation, and data-driven applications**.
-
-## Tech Stack
-
-**Backend & Web Development**
-- Ruby · Ruby on Rails · SQL · Active Record
-- JavaScript · Stimulus · HTML · CSS
-
-**AI & Integrations**
-- LLM integration · AI agents & tools · Prompt design
-- APIs · Audio transcription · Cloudinary
-
-**Development**
-- Git · GitHub · MVC architecture · PostgreSQL
-
-**Spatial & Data**
-- QGIS · ArcGIS
+Before moving into software development, I built 10+ years of professional experience solving complex problems and coordinating multidisciplinary projects.
 
 ## Featured Projects
 
-### MatrIA
-AI-enabled Ruby on Rails application developed as a four-person Le Wagon capstone project to streamline testimony intake for people affected by vicarious violence.
+### Bloomdory — AI-Powered Scheduling Application
+Ruby on Rails · PostgreSQL · RubyLLM · LLM Agents · Tool Calling · Heroku
 
-**My contributions:** implemented the audio transcription workflow, including Cloudinary storage, audio conversion to WAV, and transcription functionality. I also contributed to product scoping and MVP prioritization.
+- Co-developed an AI agent backend that translates natural-language requests into calendar actions.
+- Integrated LLM tool calling for creating, updating, and deleting activities through predefined operations.
+- Implemented the workflow from user request → LLM interpretation → tool selection → application logic → database persistence.
+- Tested and iteratively refined prompts and tool instructions based on agent behavior.
 
-**Tech:** Ruby on Rails · Ruby · Cloudinary · AI-enabled workflows · Audio transcription
+### MatrIA — AI-Assisted Testimony Processing Application
+Ruby on Rails · PostgreSQL · Cloudinary · Active Storage · Active Job · Turbo Streams · Heroku
 
-[Live application](https://matriayuda.me) · [Repository](https://github.com/YaelSJ/matria)
+- Implemented the audio processing and transcription workflow.
+- Integrated Cloudinary storage and WAV conversion for uploaded audio.
+- Connected background jobs with Turbo Streams and a Rails partial to update the UI during asynchronous processing and display results when completed.
 
-### Bloomdory
-Ruby on Rails scheduling application developed by a four-person team, using an LLM-powered agent to convert natural-language requests into calendar activities.
+## Technical Skills
 
-**My contributions:** co-developed the AI agent backend, integrated LLM functionality, worked on prompts and tools for creating, updating, and deleting scheduled activities, and iteratively tested and refined agent behavior.
+**Languages & Frameworks:** Ruby, Ruby on Rails, JavaScript, SQL, HTML/CSS, Stimulus, Turbo Streams
 
-**Tech:** Ruby on Rails · Ruby · LLMs · AI agents & tools · SQL
+**Backend & Data:** REST APIs, Active Record, PostgreSQL, MVC, Active Job / Background Jobs
 
-[Live application](https://bloomdory-15a9482e61c8.herokuapp.com/) · [Repository](https://github.com/menichettijillian/bloomdory)
+**AI:** LLM Integration, AI Agents, Tool Calling, Prompt Design & Iteration
 
-## Currently Exploring
+**Development:** Git, GitHub, Heroku, Cloudinary, Active Storage
 
-I'm continuing to deepen my skills in **backend development, APIs, applied AI, and data-driven applications**, with a focus on building increasingly independent software projects.
+## Currently
 
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/antoespinosa/)
-- [GitHub](https://github.com/urb-aespinosa)
+Building deeper software engineering experience while continuing to develop my skills in backend development, APIs, applied AI, and data.
