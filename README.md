@@ -2,7 +2,7 @@
 
 Software Developer focused on backend development and applied AI.
 
-I build Ruby on Rails applications involving LLM agents, APIs, relational databases, background jobs, and asynchronous workflows. I recently completed Le Wagon's 360-hour AI Software Development Bootcamp, where I developed and deployed software projects from problem definition through working MVPs.
+I build Ruby on Rails applications involving LLM agents, APIs, relational databases, background jobs, and asynchronous workflows. I recently completed Le Wagon's 400-hour AI Software Development Bootcamp, where I developed and deployed software projects from problem definition through working MVPs.
 
 Before moving into software development, I built 10+ years of professional experience solving complex problems and coordinating multidisciplinary projects.
 
